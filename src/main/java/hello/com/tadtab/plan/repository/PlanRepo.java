@@ -14,6 +14,4 @@ import com.tadtab.plan.pojo.Plan;
  *
  */
 public interface PlanRepo extends MongoRepository<Plan, Integer>
-{
-
-}
+{}
