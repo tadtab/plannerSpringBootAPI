@@ -32,13 +32,14 @@ public class PlanController
     private PlanService planService;
     
     @CrossOrigin(origins = "https://planner2020.s3.amazonaws.com")
-    @RequestMapping(value="/save", method =  RequestMethod.POST)
+    @RequestMapping(value="/sav", method =  RequestMethod.POST)
     public String savePlan(@RequestBody Plan plan) {
      
         return planService.persistPlan(plan);
     }
     @RequestMapping("/get")
     public List<Plan> greeting() {
+        
         return planService.getAllPlan();
     }
 
