@@ -1,0 +1,11 @@
+2020-03-15 03:40:04,226 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MacBook-Pro.local with PID 21609 (/Users/tadtab/Documents/4TH2019/Tutorials/gs-rest-service-master/complete/target/classes started by tadtab in /Users/tadtab/Documents/4TH2019/Tutorials/gs-rest-service-master/complete)
+2020-03-15 03:40:04,229 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-03-15 03:40:04,230 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-03-15 03:40:07,643 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 8.805 seconds (JVM running for 9.133)
+2020-03-15 09:46:48,122 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MacBook-Pro.local with PID 22141 (/Users/tadtab/Documents/4TH2019/Tutorials/gs-rest-service-master/complete/target/classes started by tadtab in /Users/tadtab/Documents/4TH2019/Tutorials/gs-rest-service-master/complete)
+2020-03-15 09:46:48,125 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-03-15 09:46:48,126 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-03-15 09:47:09,994 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MacBook-Pro.local with PID 22206 (/Users/tadtab/Documents/4TH2019/Tutorials/gs-rest-service-master/complete/target/classes started by tadtab in /Users/tadtab/Documents/4TH2019/Tutorials/gs-rest-service-master/complete)
+2020-03-15 09:47:09,996 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-03-15 09:47:09,997 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-03-15 09:47:13,407 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 8.797 seconds (JVM running for 9.134)

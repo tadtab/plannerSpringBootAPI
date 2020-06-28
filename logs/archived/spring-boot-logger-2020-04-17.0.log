@@ -1,0 +1,7 @@
+2020-04-17 20:38:45,909 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MacBook-Pro.local with PID 15206 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-17 20:38:45,912 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-17 20:38:45,913 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-17 20:39:08,841 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MacBook-Pro.local with PID 15208 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-17 20:39:08,844 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-17 20:39:08,844 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-17 20:39:12,521 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 9.066 seconds (JVM running for 9.412)

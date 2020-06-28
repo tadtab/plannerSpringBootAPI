@@ -1,0 +1,23 @@
+2020-04-13 00:07:10,359 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MacBook-Pro.local with PID 6631 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-13 00:07:10,363 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-13 00:07:10,364 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-13 00:07:13,987 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 9.041 seconds (JVM running for 9.406)
+2020-04-13 00:09:16,757 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MBP with PID 6681 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-13 00:09:16,760 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-13 00:09:16,760 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-13 00:09:20,295 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 4.102 seconds (JVM running for 4.44)
+2020-04-13 00:13:02,648 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MBP with PID 6685 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-13 00:13:02,651 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-13 00:13:02,652 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-13 00:13:16,740 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MBP with PID 6686 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-13 00:13:16,743 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-13 00:13:16,744 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-13 00:13:20,506 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 4.243 seconds (JVM running for 4.58)
+2020-04-13 00:22:46,465 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MBP with PID 6694 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-13 00:22:46,468 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-13 00:22:46,469 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-13 00:22:49,945 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 3.938 seconds (JVM running for 4.276)
+2020-04-13 00:48:54,990 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on Tadeles-MBP with PID 6729 (/Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery/target/classes started by tadtab in /Users/tadtab/WorkSpaceJuly2019/Planner2nd2020Recovery)
+2020-04-13 00:48:54,992 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2020-04-13 00:48:54,993 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-13 00:48:58,526 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 5.109 seconds (JVM running for 5.471)
