@@ -37,7 +37,6 @@ public class PlanController
      
         return planService.persistPlan(plan);
     }
-    
     @RequestMapping("/get")
     public List<Plan> greeting() {
         return planService.getAllPlan();
