@@ -35,7 +35,7 @@ public class PlanController
     @RequestMapping(value="/save", method =  RequestMethod.POST)
     public String savePlan(@RequestBody Plan plan) {
      
-        return planService.persistPlan(plan)sfdsf
+        return planService.persistPlan(plan);
     }
     @RequestMapping("/get")
     public List<Plan> greeting() {
