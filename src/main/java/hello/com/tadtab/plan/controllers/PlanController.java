@@ -20,7 +20,7 @@ import com.tadtab.plan.service.PlanService;
  *
  * @author tadtab
  * @version Apr 12, 2020
- * need to merge new code as of 10/04/2020
+ * need to merge new code as of 10/04/2020. this included enpoint update
  */
 @CrossOrigin(maxAge = 3600)
 @RestController
