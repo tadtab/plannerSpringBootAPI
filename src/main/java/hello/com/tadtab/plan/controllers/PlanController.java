@@ -20,7 +20,7 @@ import com.tadtab.plan.service.PlanService;
  *
  * @author tadtab
  * @version Apr 12, 2020
- * new version is available
+ * need to merge new code as of 10/04/2020
  */
 @CrossOrigin(maxAge = 3600)
 @RestController
